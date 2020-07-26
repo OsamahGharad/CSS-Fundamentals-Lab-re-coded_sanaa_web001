@@ -10,3 +10,7 @@ h1{
 .center{
   text-align: center;
 }
+a{
+  background-color: gray;
+  padding 0 10px;
+}
