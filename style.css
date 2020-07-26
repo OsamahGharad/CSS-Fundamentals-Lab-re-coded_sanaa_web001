@@ -26,4 +26,5 @@ text-align: right;
 }
 $details div{
   display: block;
+  float: left;
 }
