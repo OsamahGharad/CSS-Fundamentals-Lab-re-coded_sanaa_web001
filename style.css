@@ -21,3 +21,9 @@ text-align: right;
 
 
 }
+#details{
+  float: left;
+}
+$details div{
+  display: block;
+}
